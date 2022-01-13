@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Hello, I'm Hardik Mehta!
 
-You can use the [editor on GitHub](https://github.com/mehtahardikr/mehtahardikr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I love ☕  🍕 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🔭 I’m currently working on Android.
+- 🌱 I’m currently learning Flutter.
+- 😄 Pronouns: He/His
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[![Linkedin: hardik-mehta-18966051](https://img.shields.io/badge/-mehtahardikr-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hardik-mehta-18966051/)
+[![GitHub mehtahardikr](https://img.shields.io/github/followers/mehtahardikr?label=follow&style=social)](https://github.com/mehtahardikr)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Languages and Tools:
 
-**Bold** and _Italic_ and `Code` text
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mehtahardikr/mehtahardikr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://github.com/mehtahardikr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtahardikr&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/mehtahardikr">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehtahardikr&show_icons=true&theme=dark&line_height=27" alt="Hardik's github stats"/>
+</a>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
